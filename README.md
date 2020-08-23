@@ -1,5 +1,5 @@
 # Treatment-Effect-Modification-with-Non-monotone-Missingness
-This repository contains the analysis code used in paper 'Treatment-Effect-Modification-with-Non-monotone-Missingness'. We provide the code to generate and analyze a simulated data with similar design as the real dengue data used in the paper in the repository and a step-by-step demostration on how to use the code to obtain results of this simulated data set and make the the VE curves as shwon in Figure 1 in the supplementary material. 
+This repository contains the analysis code used in paper 'Treatment-Effect-Modification-with-Non-monotone-Missingness'. We provide the code to generate and analyze a simulated data with similar design as the real dengue data used in the paper in this repository and a step-by-step demostration on how to use the code to obtain results of this simulated data set and make the the VE curves as shwon in Figure 1 in the supplementary material. 
 
 ## Step 1: Simulate Data
 The generateData function provided in myFunctions.R generates a simulated data with similar design as the real dengue data used in the paper.
